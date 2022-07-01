@@ -1,0 +1,10 @@
+jupyterlab
+pandas
+numpy
+seaborn
+matplotlib
+sklearn
+tqdm
+shap
+lightgbm
+umap-learn
