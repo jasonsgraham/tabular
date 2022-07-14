@@ -3,3 +3,5 @@ data/
 .DS_Store
 !/notebooks/all-tps-competitions-overview.ipynb
 !/notebooks/intro-to-clustering-techniques-algorithms.ipynb
+.attic/
+.ipynb_checkpoints/
